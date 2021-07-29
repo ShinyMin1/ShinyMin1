@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @ShinyMin1
-- 👀 I’m interested in Game Development/ Programs
+- 👀 I’m interested in Game Development / Programming
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on nothing ;-;
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate with anyone.
+- 📫 How to reach me Mini#5000 (Discord)
+
+I am currently learning Unity C#.
 
 <!---
 ShinyMin1/ShinyMin1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
