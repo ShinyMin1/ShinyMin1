@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with anyone.
 - 📫 How to reach me Mini#5000 (Discord)
 
-I am currently learning Unity C#.
+I am currently learning Unity C# and Python. :)
 
 <!---
 ShinyMin1/ShinyMin1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
