@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development / Programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate with anyone.
-- 📫 How to reach me Mini#5000 (Discord)
+- 📫 How to reach me Mini#7173 (Discord)
 
 I am currently learning Unity C#, Python, HTML :)
 
